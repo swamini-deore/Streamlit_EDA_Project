@@ -37,8 +37,6 @@ This project provides a powerful and user-friendly EDA interface for beginners a
 
   -Pie chart
 
-  -Treemap
-
   -3D visualization
 
   -Pairplot
