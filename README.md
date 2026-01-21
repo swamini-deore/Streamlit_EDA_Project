@@ -21,17 +21,17 @@ This project provides a powerful and user-friendly EDA interface for beginners a
 
 📈 Multiple chart types:
 
-Histogram
-Boxplot
-Scatter plot
-Line chart
-Bar chart
-Violin plot
-Correlation heatmap
-Pie chart
-Treemap
-3D visualization
-Pairplot
+.Histogram
+.Boxplot
+.Scatter plot
+.Line chart
+.Bar chart
+.Violin plot
+.Correlation heatmap
+.Pie chart
+.Treemap
+.3D visualization
+.Pairplot
 
 🌙 Light & Dark theme toggle
 
