@@ -7,6 +7,13 @@ This dashboard allows users to upload CSV files, explore datasets, apply filters
 
 This project provides a powerful and user-friendly EDA interface for beginners and data analysts. It helps in understanding datasets through statistical summaries, filtering options, missing value handling, and a wide range of visualizations like histograms, boxplots, scatter plots, heatmaps, 3D plots, treemaps, and more.
 
+## 📈Watch Link
+
+All_dataset=https://drive.google.com/file/d/1LdVLregIajM72wUtfusJspzs-J28T2Ew/view?usp=sharing
+
+missing_value_dataset=https://drive.google.com/file/d/1rAGeNIJ3bxuayrJ3OgfqIcA0UAG7m4i0/view?usp=sharing
+
+
 ## ✨ Features
 
  📂 Upload CSV files
